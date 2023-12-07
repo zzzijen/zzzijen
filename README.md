@@ -1,5 +1,5 @@
 ### Hi there 👋
-輔仁大學統計資訊系
+輔仁大學統計資訊系 一年級
 
 <!--
 **zzzijen/zzzijen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
